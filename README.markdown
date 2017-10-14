@@ -1,6 +1,6 @@
 # xxb
 
-xxb is a fancy/silly xxd replacement I wrote in like 2015 or something, for fun and to learn about what extremely low-level Haskell was like. Features include:
+xxb is a fancy/silly xxd replacement I wrote in like 2015 or something, for fun and to learn about what extremely low-level Haskell was like. I seem to have forgotten about it for two years, though. Features include:
 
 * Ability to produce colored output
 * Different methods for displaying bytes as one or two characters on the right-side column of the hexdump
